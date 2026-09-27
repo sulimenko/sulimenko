@@ -7,7 +7,7 @@ Every milestone must leave the repository buildable/testable.
 Deliverables:
 
 - ADR-0001 accepted.
-- Private GitHub repository exists.
+- Public GitHub repository exists; public source code is an explicit project decision.
 - Monorepo directories, README, editor settings, gitignore.
 - Version policy documented.
 

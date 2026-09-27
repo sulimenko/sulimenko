@@ -31,4 +31,4 @@ docs/
 
 ## Architecture status
 
-ADR-0001 is currently PROPOSED. After approval it becomes ACCEPTED and Milestone 1 scaffolding begins.
+ADR-0001 is ACCEPTED. Milestone 1 foundation is in progress.

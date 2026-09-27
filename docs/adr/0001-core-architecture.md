@@ -1,6 +1,6 @@
 # ADR-0001: Core architecture for SULIMENKO
 
-- Status: PROPOSED
+- Status: ACCEPTED
 - Date: 2026-09-27
 - Decision owners: Project owner and Senior Software Architect
 
