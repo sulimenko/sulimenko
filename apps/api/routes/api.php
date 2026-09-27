@@ -1,0 +1,11 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+
+Route::prefix('v1')->group(function (): void {
+    Route::get('/health', static fn (): array => [
+        'status' => 'ok',
+        'service' => 'sulimenko-api',
+        'api_version' => 'v1',
+    ]);
+});

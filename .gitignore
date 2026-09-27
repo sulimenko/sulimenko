@@ -14,3 +14,4 @@ storage/framework/views/*
 coverage/
 playwright-report/
 test-results/
+apps/api/database/*.sqlite
